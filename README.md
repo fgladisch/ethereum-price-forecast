@@ -11,7 +11,7 @@ Place the CSV file for ethereum in `data/ethereum.csv`.
 Use `pipenv` to install the dependencies of this notebook:
 
 ```sh
-pipenv install
+pipenv install --dev
 ```
 
 After that, run the notebook in the generated python environment.
